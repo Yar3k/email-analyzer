@@ -1,6 +1,0 @@
-@EmailAnalyzer_HostAddress = http://localhost:5297
-
-GET {{EmailAnalyzer_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
